@@ -12,3 +12,11 @@
 - **Names gate: JONO CONFIRMED** — "Johno's confirmed... a public AI figure also with the company, numerously documented together, probably going to participate in the talk." Running joke: Jono-as-Jason-Statham/Lemmy AI pic.
 - **Botticelli (TM-006) ratified** — generation spec banked (Lemmy-inspired, no hat, mildly balding not bald, beard not extra crazy, Bill-and-Ted energy, populate the Botticelli painting the way it should be); use = packet opening slide for reviewers / title slide in talk order.
 - **Bing prompts delivered (2 + Botticelli spec):** thermostat technical-style render; Bing's-choice slide visual; Botticelli paste-ready. Pics uploading on Mark's side.
+
+## 2026-11-02 — PICS RECEIPT (8 uploads, vision-passed)
+*Full manifest: talks-main/ops/PICS-MANIFEST-2026-11-02.md (commit 895555d2).*
+
+- **Botticelli render ARRIVED** (Q download): Birth-of-Venus composition, central bearded figure on the shell making 🤘, no hat. **Slide-00 (title) candidate.** Spec-check open: "mildly balding, not bald" unclear under the long hair — Mark's eyes decide SET vs one more Q pass.
+- **Six @DDIGGLESWORTH street-art photos** (Oct 11, real phone photos): utility-box robots holding red heart balloons, "SAVE THE HUMANS," "LOVE" — found-art set; candidate home = Group 2 / center-slot / floor-talk / promo. **Credit rule: credit @DDIGGLESWORTH whenever used publicly.** License = found street art, not PD/CC-verified — credit-line mandatory.
+- **Penguin-by-campfire render** (AI): penguin = doorway; home = Mark's call (KOOL-AI-D center / Penguin Oracle lane / art talk).
+- **NOT in batch:** thermostat original photo (QA flag 5 stands; Bing technical render may stand it down); penguin-suit BBQ photos (Bus A slide 01 waits).
