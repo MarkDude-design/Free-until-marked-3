@@ -14,7 +14,7 @@
 - **Bing prompts delivered (2 + Botticelli spec):** thermostat technical-style render; Bing's-choice slide visual; Botticelli paste-ready. Pics uploading on Mark's side.
 
 ## 2026-11-02 — PICS RECEIPT (8 uploads, vision-passed)
-*Full manifest: talks-main/ops/PICS-MANIFEST-2026-11-02.md (commit 895555d2).*
+*Full manifest: talks-main/ops/PICS-MANIFEST-2026-11-02.md.*
 
 - **Botticelli render ARRIVED** (Q download): Birth-of-Venus composition, central bearded figure on the shell making 🤘, no hat. **Slide-00 (title) candidate.** Spec-check open: "mildly balding, not bald" unclear under the long hair — Mark's eyes decide SET vs one more Q pass.
 - **Six @DDIGGLESWORTH street-art photos** (Oct 11, real phone photos): utility-box robots holding red heart balloons, "SAVE THE HUMANS," "LOVE" — found-art set; candidate home = Group 2 / center-slot / floor-talk / promo. **Credit rule: credit @DDIGGLESWORTH whenever used publicly.** License = found street art, not PD/CC-verified — credit-line mandatory.
@@ -28,4 +28,10 @@
 - **The SF utility-box collage:** Cresta ad "AI THAT PUTS YOUR CUSTOMER EXPERIENCE IN BEAST MODE" + "Chris Larsen IS WATCHING YOU" poster + graffiti on one box — an AI ad, a surveillance-style poster, and hostile graffiti in a single frame: the street literally arguing about AI.
 - **Read (Z):** with the @DDIGGLESWORTH robots-with-hearts set, these bracket the talk's cultural tension — earnest ("SAVE THE HUMANS") vs. hostile ("FUCK AI AND THE PEOPLE DEVELOPING IT"). Strong candidates for the skeptical-register / cultural-tension slides; also the floor talk and the art talk.
 - **Care rules:** no artist tags on the guerrilla pieces (unknown makers — no credit line available); **profanity on-slide = Mark's call**; **do not publish the "MUSH LOVE" sticker's phone number**; the "WHAT IS THE SIGNIFICANCE OF THE HORSE?" poster pair logged as context material (guerrilla campaign, maker unidentified — don't claim authorship or campaign affiliation).
-- **Also in batch 2 (not this repo):** an abstract painting (unknown artist — license review before public use; art-talk/texture-cover candidate) and an Ethiopian coffee-ceremony artwork (routes to the coffee lane: Bishop's Brew / cookbook #9 Berbere Sunrise / The Modal Drip lineage).
+- **Also in batch 2 (not this repo):** an abstract painting (unknown artist — license review before public use; art-talk/texture-cover candidate) and an Ethiopian coffee-ceremony piece (routes to the coffee lane: Bishop's Brew / cookbook #9 Berbere Sunrise / The Modal Drip lineage).
+
+## 2026-11-02 — owner corrections + shipments
+- **Ethiopian coffee-ceremony pic reclassified: AI RENDER.** MARK_VERBATIM: "Ethiopian coffee ceremony is AI generated there's two spouts that don't obey the law of physics otherwise it's a pretty damn good picture if they just want to reprompted that you almost wouldn't have noticed." The owner's eyes caught what the vision pass missed. **Pattern banked: AI renders get a physics pass; owner eyes = final QA over any vision pass.** Reprompt candidate (fix the spouts); home stays the coffee lane.
+- **THE POOL (owner ruling):** pics with unknown homes → talks-main/pool/ — "stick them in the wrong place that's fine we have hooks for them all." Hooks = the manifest's suggested-home column + this repo's slide IMAGE SLOTS + Z's vision pass.
+- **handoff/FOR-INPUT-full-talk.md posted** — the complete talk in one paste (frame, timing, all 32 slides, QA flags, governing rulings) for Q-input runs: "give me a copy and basically the whole thing... save me time for q, I'll get input."
+- **README upgraded** (front door: pitch, pictures pipeline, FOR-INPUT pointer, governance).
