@@ -1,9 +1,10 @@
 # NEXT — KOOL-AI-D queue
 
-1. **Mark drops pics** anytime (slide-NN.png convention); Q downloads landing on his side.
-2. **Q/Bing visual prompts** — can be fired on request (AICU visual grammar in images/README).
-3. **QA flags** (in canonical/skeleton): BDOS citation · Tang "moon" phrasing · Dad segment OK · 2011-deck ruling · Karol G verify · thermostat original upload.
-4. **Center slot** — candidates listed on slide 19; timely additions are the slot's real purpose; friend/social testing before show time.
-5. **Names gates** — Jono, Max, Darla, Carol, Dario, Sam Altman: Mark's confirmation before public use.
-6. **Distribution** — pulls allowed once spine locks; scrubbed material only on the public branch; publish = Mark fires.
-7. **Slide beef through the week** — banked rounds (five-asks answers, rehearsal digests, harvests) fold in as they apply.
+1. **Mark drops pics** anytime (slide-NN.png convention); Q downloads landing on his side — "other ones are uploading now" (2026-11-02).
+2. **Q/Bing visual prompts** — two delivered to Bing 2026-11-02: (a) the thermostat, technical-drawing style, not-AI-looking; (b) Bing's-choice slide visual, full trust. AICU visual grammar in images/README.
+3. **QA flags** (in canonical/skeleton): BDOS citation · Tang "moon" phrasing · Dad segment OK · 2011-deck ruling (RULED 2026-11-02: rest of the deck = filler, broken up through the talk where pieces fit) · Karol G verify · thermostat original upload (may stand down if the technical render lands).
+4. **Center slot** — candidates listed on slide 19; timely additions are the slot's real purpose; friend/social testing before show time. Per the 2026-11-02 distributed-filler ruling: remainder pieces (2011-deck slides, Part III+ leftovers) break up across the talk where they fit — a piece everywhere that makes sense.
+5. **Names gates** — **JONO: CONFIRMED 2026-11-02** (public AI figure, with the company, documented together numerous times, likely talk participant). Running joke banked: the AI-gen Jono pic reads Jason Statham / Lemmy-inspired — "it's going to be a running joke cuz it looks so similar it doesn't matter." **Max / Darla / Carol: still Mark's confirmation before public use.**
+6. **Botticelli title-slide candidate (TM-006 ratified 2026-11-02)** — Lemmy-inspired character (no hat, mildly balding-not-bald, silly beard not extra crazy) × Bill-and-Ted-excellent-adventure energy, populating the Botticelli painting the way it should be. = AI-art opening slide for speakers/reviewers on the packet; title slide in the talk's own order. Prompt delivered to Bing; drop as images/slide-00.png when rendered. (Which packet it rides = Mark's call.)
+7. **Distribution** — pulls allowed once spine locks; scrubbed material only on the public branch; publish = Mark fires.
+8. **Slide beef through the week** — banked rounds (five-asks answers, rehearsal digests, harvests) fold in as they apply.
