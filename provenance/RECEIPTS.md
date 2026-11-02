@@ -16,7 +16,7 @@
 ## 2026-11-02 — PICS RECEIPT (8 uploads, vision-passed)
 *Full manifest: talks-main/ops/PICS-MANIFEST-2026-11-02.md.*
 
-- **Botticelli render ARRIVED** (Q download): Birth-of-Venus composition, central bearded figure on the shell making 🤘, no hat. **Slide-00 (title) candidate.** Spec-check open: "mildly balding, not bald" unclear under the long hair — Mark's eyes decide SET vs one more Q pass.
+- **Botticelli render ARRIVED** (Q download): Birth-of-Venus composition, central bearded figure on the shell making 🤘, no hat. **Slide-00 (title) — SET by owner's eyes 2026-11-02** ("SET it — good as is"); spec-check closed.
 - **Six @DDIGGLESWORTH street-art photos** (Oct 11, real phone photos): utility-box robots holding red heart balloons, "SAVE THE HUMANS," "LOVE" — found-art set; candidate home = Group 2 / center-slot / floor-talk / promo. **Credit rule: credit @DDIGGLESWORTH whenever used publicly.** License = found street art, not PD/CC-verified — credit-line mandatory.
 - **Penguin-by-campfire render** (AI): penguin = doorway; home = Mark's call (KOOL-AI-D center / Penguin Oracle lane / art talk).
 - **NOT in batch:** thermostat original photo (QA flag 5 stands; Bing technical render may stand it down); penguin-suit BBQ photos (Bus A slide 01 waits).
@@ -35,3 +35,9 @@
 - **THE POOL (owner ruling):** pics with unknown homes → talks-main/pool/ — "stick them in the wrong place that's fine we have hooks for them all." Hooks = the manifest's suggested-home column + this repo's slide IMAGE SLOTS + Z's vision pass.
 - **handoff/FOR-INPUT-full-talk.md posted** — the complete talk in one paste (frame, timing, all 32 slides, QA flags, governing rulings) for Q-input runs: "give me a copy and basically the whole thing... save me time for q, I'll get input."
 - **README upgraded** (front door: pitch, pictures pipeline, FOR-INPUT pointer, governance).
+
+## 2026-11-02 — owner micro-rulings + submit-form receipt
+- **BOTTICELLI = SET** (owner's eyes, 2026-11-02: "SET it — good as is"). Spec-check closed — no further Q pass. Home: images/slide-00.png (title slide in talk order; packet opening slide for reviewers per TM-006). AI render; physics pass + owner pass complete. File drop rides Mark's pic-drop flow.
+- **"Rock" probe RESOLVED:** MARK_VERBATIM: "Rock on dude basically" — "rock is on it right now" was "Rock on, dude," not a seat/person/tool. No Rock lane; routing unchanged.
+- **SUBMISSION.md posted** (main, commit 465c1e9f) — CFP paste-ready form: working title + alternates, format/duration, abstract, key takeaways, DRAFT speaker bio (owner-flagged includes only: third-generation Californian · Vonnegut/Anthropic asterisk · SAR; **Kawasaki wisdom = PERMANENT GATE, never published**), reviewer notes, status + gates. Abstract is gate-clean (no Max/Darla/Carol; Jono confirmed but unused in abstract copy). **Owner fires at the next CFP window.**
+- **BRANCH DOCTRINE:** main = submittable form; text additions ride the `beef` branch (Z merges on the pulse); pics drop to main (images are renderings; they never block the submit form).
