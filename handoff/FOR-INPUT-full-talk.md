@@ -2,6 +2,8 @@
 
 **What this is:** the complete current state of the talk — frame, timing, all 32 slides, open flags — in ONE file, so the whole thing can be read or pasted in a single pass. Built 2026-11-02 from the canonical repo. **This file is the copy of record for input runs: open it, select all, paste to the input seat.**
 
+**Fidelity:** verified 2026-11-02 against BOTH hops — the upstream section map (kool-aid-movie, 35 beats) and the repo canonical (spine + all 32 slides). Every LOCKED line verbatim end-to-end. The repo remains the source of record; this doc is a rendering.
+
 **What input is wanted (any seat reading this):**
 1. **QA-flag verification** (listed at the bottom) — facts to check, phrasings to settle: BDOS citation, Tang "moon" phrasing, Karol G story, WW2-Italy tone, Dad segment willingness.
 2. **Distributed-filler placement** — per owner ruling, remainder material (the 2011 deck's rest, Part III+ leftovers) breaks up across the talk where pieces fit. Suggest which slides take which pieces.
@@ -38,7 +40,7 @@ The follow-up to the most-requested talk — *"Linux is a cult, but a good cult"
 
 ## Number lore & spice — DISTRIBUTED (not a section)
 
-11/base-11/Spinal Tap ("the dial was never the problem; the base was") → G1–G2 · German zeros/Null/Frankenstein provenance → G1 driver lore · C0C0NUT co-processor → G2 or center · runlevel-0/PID 0–1 ("You schedule; I decide") → G4 or center.
+11/base-11/Spinal Tap ("In base 10, eleven quantizations is a war crime... the dial was never the problem; the base was") → Groups 1–2 · German zeros/Null/Frankenstein provenance → Group 1 (driver lore) · C0C0NUT co-processor (closed weights are coconuts; the tuba accelerator; "arrives for no reason — that's the correct energy") → Group 2 or center · runlevel-0/PID 0–1 ("You schedule; I decide") → Group 4 (authorship/authority) or center.
 
 ---
 
@@ -86,7 +88,7 @@ The follow-up to the most-requested talk — *"Linux is a cult, but a good cult"
 
 **17 — Personal chronology — LOCKED (verify item).** TURN ON — C64 · DROP OUT · RESTORE SESSION · FINE-TUNE — Dad. "I didn't return to computing. Dad restored me from checkpoint." GAFFER: DAD — the gaffer-tape motif with family provenance. *(Dad segment willingness = verify item; if yes, two minutes of 60s-Hollywood oral history here.)*
 
-**18 — Beefy Miracle + TOSW + license scar tissue (names gate).** The suit-vs-suit story (direct observation — labeled), The Open Source Way as belief system, the Red Hat legal reply mid-flight. *All under the names gate; footer convention per the Stella doc if referenced.*
+**18 — Beefy Miracle + TOSW + license scar tissue (names gate).** The suit-vs-suit story (direct observation — labeled), The Open Source Way as belief system, the Red Hat legal reply mid-flight. *All under the names gate; footer convention per the Stella doc if referenced.* *[deliberate space — one slot, unassigned]*
 
 ### CENTER — the 20-minute open slot (slide 19, DOCTRINE — held open)
 
