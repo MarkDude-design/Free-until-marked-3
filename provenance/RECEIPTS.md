@@ -20,3 +20,12 @@
 - **Six @DDIGGLESWORTH street-art photos** (Oct 11, real phone photos): utility-box robots holding red heart balloons, "SAVE THE HUMANS," "LOVE" — found-art set; candidate home = Group 2 / center-slot / floor-talk / promo. **Credit rule: credit @DDIGGLESWORTH whenever used publicly.** License = found street art, not PD/CC-verified — credit-line mandatory.
 - **Penguin-by-campfire render** (AI): penguin = doorway; home = Mark's call (KOOL-AI-D center / Penguin Oracle lane / art talk).
 - **NOT in batch:** thermostat original photo (QA flag 5 stands; Bing technical render may stand it down); penguin-suit BBQ photos (Bus A slide 01 waits).
+
+## 2026-11-02 — PICS RECEIPT ADDENDUM: batch 2, the AI-street-discourse set (four Oct 7 SF photos)
+*Full manifest: talks-main/ops/PICS-MANIFEST-2026-11-02.md (batch 2 section).*
+
+- **The anti-AI horse stencil:** black running-horse stencil carrying "FUCK AI AND THE PEOPLE DEVELOPING IT," purple "HELP US" graffiti, "IS WATCHING YOU" posters above — the skeptical register in one found frame.
+- **The SF utility-box collage:** Cresta ad "AI THAT PUTS YOUR CUSTOMER EXPERIENCE IN BEAST MODE" + "Chris Larsen IS WATCHING YOU" poster + graffiti on one box — an AI ad, a surveillance-style poster, and hostile graffiti in a single frame: the street literally arguing about AI.
+- **Read (Z):** with the @DDIGGLESWORTH robots-with-hearts set, these bracket the talk's cultural tension — earnest ("SAVE THE HUMANS") vs. hostile ("FUCK AI AND THE PEOPLE DEVELOPING IT"). Strong candidates for the skeptical-register / cultural-tension slides; also the floor talk and the art talk.
+- **Care rules:** no artist tags on the guerrilla pieces (unknown makers — no credit line available); **profanity on-slide = Mark's call**; **do not publish the "MUSH LOVE" sticker's phone number**; the "WHAT IS THE SIGNIFICANCE OF THE HORSE?" poster pair logged as context material (guerrilla campaign, maker unidentified — don't claim authorship or campaign affiliation).
+- **Also in batch 2 (not this repo):** an abstract painting (unknown artist — license review before public use; art-talk/texture-cover candidate) and an Ethiopian coffee-ceremony artwork (routes to the coffee lane: Bishop's Brew / cookbook #9 Berbere Sunrise / The Modal Drip lineage).
